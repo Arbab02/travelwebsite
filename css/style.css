@@ -1,0 +1,50 @@
+*{margin: 0;
+padding: 0;}
+.bookhunza{none;
+margin-left: 3rem;
+padding: 0.5rem 2rem;
+border-radius: 20px;
+background-color: blue;
+color: white;
+transition: all ease 1s;
+}
+.bookhunza:hover{cursor: pointer;
+background-color: black;}
+.bookchitral{none;
+    margin-left: 3rem;
+    padding: 0.5rem 2rem;
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+    transition: all ease 1s;}
+    .bookchitral:hover{cursor: pointer;
+        background-color: black;}
+        .booknaran{none;
+            margin-left: 3rem;
+            padding: 0.5rem 2rem;
+            border-radius: 20px;
+            background-color: blue;
+            color: white;
+            transition: all ease 1s;}
+            .booknaran:hover{cursor: pointer;
+                background-color: black;}
+                .bookfairy{none;
+                    margin-left: 3rem;
+                    padding: 0.5rem 2rem;
+                    border-radius: 20px;
+                    background-color: blue;
+                    color: white;
+                    transition: all ease 1s;}
+                    .bookfairy:hover{cursor: pointer;
+                        background-color: black;}
+                        footer {
+                            text-align: center;
+                            padding: 20px;
+                            background-color: #333;
+                            color: white;
+                            margin-top: 50px;
+                        }
+                        
+                        footer p {
+                            font-size: 0.9em;
+                        }
